@@ -26,3 +26,5 @@ ICT105-TeamName-MVP/
 |
 └── pitch/
 └── README.md
+
+##Change name
