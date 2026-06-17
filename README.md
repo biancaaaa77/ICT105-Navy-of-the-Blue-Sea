@@ -27,7 +27,7 @@ ICT105-TeamName-MVP/
 └── pitch/
 └── README.md
 
-##Change name
+
 Today is Lab 2 
 I learned new things.
 create docs and put some files into it .## Selected IT Venture Direction
